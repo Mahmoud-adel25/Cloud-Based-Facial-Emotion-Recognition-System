@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow>=2.16.0
+numpy
+ultralytics
+opencv-python-headless
+streamlit

@@ -1,0 +1,20 @@
+# Core dependencies - install numpy first as it's required by TensorFlow
+numpy<2.0
+pillow
+
+# Deep learning frameworks
+tensorflow>=2.16.0
+
+# Web framework
+fastapi
+uvicorn
+python-multipart
+
+# Computer vision
+opencv-python-headless
+ultralytics
+
+# UI
+streamlit
+
+
